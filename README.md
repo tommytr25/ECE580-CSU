@@ -1,2 +1,2 @@
 # ECE580-CSU
-Place for uploading home for ECE580.
+Place for uploading homework for ECE580.
